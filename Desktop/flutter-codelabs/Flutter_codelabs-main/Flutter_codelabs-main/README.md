@@ -5,38 +5,26 @@
 
 <p>Una ves que agreguemos la funcionalidad a nuestro proyecto nos aparecera de la siguiente forma la ventana emergente</p>
 
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/16157057-9c8f-41b6-b13a-3e0106ea8f48)
-
-<p>Si no contamos con una cuenta este nos pedira loguearnos, en mi caso ya tenia una cuenta y inicie sesión</p>
-
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/26ab6a1a-cbba-4088-be9a-6d89490cc408)
-
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/48d91de9-d3b1-4b8c-8357-029c514d2734)
-
-<p>En este apartado nos pedira que verifiquemos la cuenta si aun no lo hemos hecho, una ves verificada nos dara esta imagen</p>
-
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/ad92400a-cbfb-4920-918d-35d2a52c76c9)
-
-<p>Nos enviara un correo electronico y ahí podremos dale clic para verificarlo</p>
-
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/1e76133b-25c2-42a6-916a-ba7827bb2071)
-
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/3f90344e-d729-4049-b02c-6b4db0e44781)
-
-<p>Aqui edite el nombre de la cuenta para poner mi nombre</p>
-
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/ecaa8a6c-f0ff-4af7-bc47-6055ae282364)
+![image](https://github.com/erick200011/flutter-codelabs/assets/75103508/3b41c1cd-c7dc-4bde-b821-dd07b9b06602)
 
 
-<p>Aqui podemos ver como se reflejan los datos enviados en nuestro firebase</p>
+<p>Si no contamos con una cuenta este nos pedira registrarnos.
 
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/68162a91-449f-40b5-a78d-ad49dbeaf70b)
+![image](https://github.com/erick200011/flutter-codelabs/assets/75103508/57f39ac5-bd75-4cd4-932e-2908b80e62ca)
 
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/1fa222d2-7aa8-4fd5-add7-7ec370fb57cb)
+<p>Ya tenia una cuenta y inicie sesión</p>
+![image](https://github.com/erick200011/flutter-codelabs/assets/75103508/11e796a3-0457-4ae7-ad7c-8acd5e9dc4f2)
+![image](https://github.com/erick200011/flutter-codelabs/assets/75103508/36b515d9-a24a-4d3d-832a-daf8958420ff)
 
-<p>Aquí se observan los mensajes dentro de la aplicación</p>
+<p>En este apartado nos pedira que verifiquemos la cuenta si aun no lo hemos hecho, una ves verificada nos dara esta imagen
+  ![image](https://github.com/erick200011/flutter-codelabs/assets/75103508/5f857411-7385-4558-b9d3-3b90110e9978)
 
-![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/b0f1c97c-ec91-49b9-82a8-8adb46fcf233)
+<p>Aqui podemos ver como se reflejan los datos enviados en nuestro firebase agregando algun sms</p>
+![image](https://github.com/erick200011/flutter-codelabs/assets/75103508/a0062d89-708c-42be-abc4-e0cb75bf5dbe)
+
+![image](https://github.com/erick200011/flutter-codelabs/assets/75103508/7e7729c7-db74-4e31-9e6c-ac6a198ef967)
+
+
 
 
 
