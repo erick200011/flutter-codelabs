@@ -1,10 +1,10 @@
-import 'package:firebase_ui_auth/firebase_ui_auth.dart'; 
+import 'package:firebase_ui_auth/firebase_ui_auth.dart'; // new
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';               
+import 'package:go_router/go_router.dart';               // new
 import 'package:google_fonts/google_fonts.dart';
-import 'package:provider/provider.dart';                
+import 'package:provider/provider.dart';                 // new
 
-import 'app_state.dart';                                 
+import 'app_state.dart';                                 // new
 import 'home_page.dart';
 
 void main() {
@@ -15,6 +15,7 @@ void main() {
     create: (context) => ApplicationState(),
     builder: ((context, child) => const App()),
   ));
+  // ...to here.
 }
 
 
@@ -67,7 +68,7 @@ final _router = GoRouter(
             GoRoute(
               path: 'forgot-password',
               builder: (context, state) {
-                final arguments = state.pathParameters; // Cambia de queryParameters a getParam()
+                final arguments = state.pathParameters;
                 return ForgotPasswordScreen(
                   email: arguments['email'],
                   headerMaxExtent: 200,
